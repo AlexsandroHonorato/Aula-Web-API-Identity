@@ -1,0 +1,1 @@
+http://localhost:52297/api/User/ConfirmEmailAddress?token=CfDJ8NKcfpZzqB1LjE9b243BF3EizrOdPKt%2BA3h4PQBRLmItZO%2Fu9BSd9evsRsiVsdfOe69Y%2Bortwc6k%2FFU6wDoFp7MAaFFO2paJyNm1Dsw4%2FwwjfbRgVfgdQC1uoNkyO2DsS%2BIs4jLijhVEbyw47P88lwdP8xCEVHpKVfcLIoRs%2BVKklZq%2FVQGyf1i7sqrYcUZwng%3D%3D&email=alexsandrohonorato@gmail.com

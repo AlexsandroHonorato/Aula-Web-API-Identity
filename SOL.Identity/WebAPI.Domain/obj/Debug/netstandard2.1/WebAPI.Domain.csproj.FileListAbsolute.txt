@@ -1,0 +1,9 @@
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\bin\Debug\netstandard2.1\WebAPI.Domain.deps.json
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\bin\Debug\netstandard2.1\WebAPI.Domain.dll
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\obj\Debug\netstandard2.1\WebAPI.Domain.AssemblyInfoInputs.cache
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\obj\Debug\netstandard2.1\WebAPI.Domain.AssemblyInfo.cs
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\bin\Debug\netstandard2.1\WebAPI.Domain.pdb
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\obj\Debug\netstandard2.1\WebAPI.Domain.csproj.CoreCompileInputs.cache
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\obj\Debug\netstandard2.1\WebAPI.Domain.dll
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\obj\Debug\netstandard2.1\WebAPI.Domain.pdb
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPI.Domain\obj\Debug\netstandard2.1\WebAPI.Domain.csprojAssemblyReference.cache

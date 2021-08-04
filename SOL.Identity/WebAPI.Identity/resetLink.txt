@@ -1,0 +1,1 @@
+http://localhost:52297/api/User/ResetPassword?token=CfDJ8NKcfpZzqB1LjE9b243BF3GnN4eD6D5CAgvlnrgeaP9cWWquSZrVaBzyvRdyzROeIpG41o3s%2BhT0b5tb3TxYF6YzDlVenUXiYgBBb2gqKwxvk%2FgvxzWPZNizRrG1UpEP8NMlcS3I4zkFrt%2F9cnma3%2BMiso4XoiK8iLHj9JC2jArHScH1qI8Zx%2FIPzAl4udLvew%3D%3D&email=gilvania@gmail.com

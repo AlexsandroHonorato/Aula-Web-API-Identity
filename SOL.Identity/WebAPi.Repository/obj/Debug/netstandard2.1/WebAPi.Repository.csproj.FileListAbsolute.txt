@@ -1,0 +1,12 @@
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\bin\Debug\netstandard2.1\WebAPi.Repository.deps.json
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\bin\Debug\netstandard2.1\WebAPi.Repository.dll
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\obj\Debug\netstandard2.1\WebAPi.Repository.csprojAssemblyReference.cache
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\obj\Debug\netstandard2.1\WebAPi.Repository.AssemblyInfoInputs.cache
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\obj\Debug\netstandard2.1\WebAPi.Repository.AssemblyInfo.cs
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\bin\Debug\netstandard2.1\WebAPI.Domain.dll
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\bin\Debug\netstandard2.1\WebAPi.Repository.pdb
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\bin\Debug\netstandard2.1\WebAPI.Domain.pdb
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\obj\Debug\netstandard2.1\WebAPi.Repository.csproj.CoreCompileInputs.cache
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\obj\Debug\netstandard2.1\WebAPi.Repository.csproj.CopyComplete
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\obj\Debug\netstandard2.1\WebAPi.Repository.dll
+E:\AULA ASP.NET CORE\SOl.Identity\SOL.Identity\WebAPi.Repository\obj\Debug\netstandard2.1\WebAPi.Repository.pdb
